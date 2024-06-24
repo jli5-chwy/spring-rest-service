@@ -207,7 +207,7 @@ its `counter` field is being incremented on each call as expected.
 
 == Summary
 
-Congratulations! You have just developed a RESTful web service with Spring.
+Congratulations! You have just developed a RESTful web service with Spring. This is a test commit. Just tacking on some changes.
 
 == See Also
 
